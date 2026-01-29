@@ -43,14 +43,16 @@ For high-risk detections, the app can delegate a cropped payload to **Google Gem
 <div align="center">
   <table>
     <tr>
-      <td><img src="Readme-show/WhatsApp Image 2026-01-29 at 11.45.10 PM.jpeg" width="200"></td>
-      <td><img src="Readme-show/WhatsApp Image 2026-01-29 at 11.45.11 PM.jpeg" width="200"></td>
-      <td><img src="Readme-show/WhatsApp Image 2026-01-29 at 11.45.13 PM.jpeg" width="200"></td>
+      <td><img src="Readme-show/upload.jpeg" width="200"></td>
+      <td><img src="Readme-show/indicator.jpeg" width="200"></td>
+      <td><img src="Readme-show/analysisprocess.jpeg" width="200"></td>
+      <td><img src="Readme-show/findhealthcare.jpeg" width="200"></td>
     </tr>
     <tr>
-      <td align="center">Analysis Processing</td>
+      <td align="center">Uploading Image</td>
       <td align="center">Indicator Results</td>
-      <td align="center">Risk Breakdown</td>
+      <td align="center">Analysis Processing</td>
+      <td align="center">Find Healthcare</td>
     </tr>
   </table>
 </div>
